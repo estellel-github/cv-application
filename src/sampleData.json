@@ -1,0 +1,46 @@
+{
+  "generalInfo": {
+    "fullName": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phoneNumber": "+1 (555) 123-4567",
+    "address": "123 Main St, Springfield"
+  },
+  "educationList": [
+    {
+      "id": "1",
+      "school": "Springfield University",
+      "location": "Springfield",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01"
+    },
+    {
+      "id": "2",
+      "school": "Tech Institute of Metropolis",
+      "location": "Metropolis",
+      "degree": "Master of Science in Data Science",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-01"
+    }
+  ],
+  "experienceList": [
+    {
+      "id": "1",
+      "company": "Tech Solutions Inc.",
+      "location": "Metropolis",
+      "position": "Software Developer",
+      "startDate": "2020-07-01",
+      "endDate": "2023-08-01",
+      "description": "Developed and optimized web applications, focusing on frontend performance and user experience."
+    },
+    {
+      "id": "2",
+      "company": "Innovatech Corp.",
+      "location": "Springfield",
+      "position": "Data Analyst",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "description": "Analyzes and visualizes data trends to assist in product development and business decision-making."
+    }
+  ]
+}
