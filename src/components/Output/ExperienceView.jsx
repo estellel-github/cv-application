@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ExperienceForm from "../Forms/ExperienceForm";
+import { ExperienceForm } from "../Forms/ExperienceForm";
 import { useCV } from "../../UseCV";
 
 function ExperienceView() {

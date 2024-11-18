@@ -90,4 +90,4 @@ function EducationForm({ editId, onSave, onCancel }) {
   );
 }
 
-export default EducationForm;
+export { EducationForm };

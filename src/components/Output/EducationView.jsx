@@ -1,5 +1,5 @@
 import { useState } from "react";
-import EducationForm from "../Forms/EducationForm";
+import { EducationForm } from "../Forms/EducationForm";
 import { useCV } from "../../UseCV";
 
 function EducationView() {
