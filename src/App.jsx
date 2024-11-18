@@ -3,7 +3,7 @@ import { GeneralInfoView } from "./components/Output/GeneralInfoView";
 import { ExperienceView } from "./components/Output/ExperienceView";
 import { Preview } from "./components/Preview/Preview";
 import { CVProvider } from "./CVContext";
-import "./App.css";
+import "./styles/App.css";
 
 function App() {
   return (

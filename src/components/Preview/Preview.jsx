@@ -6,7 +6,7 @@ function Preview() {
   return (
     <>
       <div>
-        <section>
+        <section className="personalDetails">
           <p className="fullName">{generalInfo.fullName}</p>
           <div className="contactDetails">
             <div className="email">{generalInfo.email}</div>
@@ -14,7 +14,7 @@ function Preview() {
             <div className="address">{generalInfo.address}</div>
           </div>
         </section>
-        <section>
+        <section className="resumeSection">
           <h3>Education</h3>
           {educationList.map((edu) => (
             <div key={edu.id}>
@@ -30,7 +30,7 @@ function Preview() {
             </div>
           ))}
         </section>
-        <section>
+        <section className="resumeSection">
           <h3>Experience</h3>
           {experienceList.map((exp) => (
             <div key={exp.id}>
