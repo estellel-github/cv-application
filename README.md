@@ -24,7 +24,7 @@ https://cv-application-odinb.netlify.app/
 ## Tools Used
 
 - **Development**: React with Vite
-- **Deployment**: Netlify
+- **Deployment**: Netlify [![Netlify Status](https://api.netlify.com/api/v1/badges/b562f087-b32e-48f6-93b3-e41d1926ed43/deploy-status)](https://app.netlify.com/sites/cv-application-odinb/deploys)
 - **Coding, Version Control**: Visual Studio Code, Git and GitHub
 
 ---
