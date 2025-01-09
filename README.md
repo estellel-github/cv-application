@@ -53,7 +53,7 @@ This was a simple learning project with minimum functionality. No effort could b
 ## How to Use
 
 1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the app locally with `npm run dev`.
+2. Install dependencies using `pnpm install`.
+3. Run the app locally with `pnpm run dev`.
 4. Use the form sections to input general, education, and experience data.
 5. Enter information on the left panel and see the updated information in the CV panel.
